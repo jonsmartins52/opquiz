@@ -1,27 +1,65 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://wallpaperaccess.com/full/2603097.jpg",
+  "title": "OPQuiz da Alura",
+  "description": "Teste os seus conhecimentos sobre One Piece e vamos ver se você é capaz de se tornar o Rei dos Piratas!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif",
+      "title": "Qual Akuma no Mi Luffy comeu?",
       "description": "Essa é pra aquecer",
       "answer": 2,
-      "alternatives": [".elemento", "*elemento", "#elemento", "%elemento"]
+      "alternatives": [
+        "sube sube no mi",
+        "mera mera no mi",
+        "gomu gomu no mi",
+        "gura gura no mi"
+      ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://media.giphy.com/media/kprByMkudw8s8/giphy.gif",
+      "title": "Em que episódio a abertura Fight Together foi exibida pela primeira vez?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": ["493", "236", "543", "362"]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oKIPqhotPCujLrKJG/giphy.gif",
+      "title": "Em qual capítulo do mangá doFlamingo fez sua primeira aparição?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": ["133", "236", "543", "233"]
+    },
+    {
+      "image": "https://media.giphy.com/media/3liTS9ybBTEK4/giphy.gif",
+      "title": "Para onde Nico Robin foi mandada durante o Time Skip?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": ["Vila Fuschia", "Tequila Wolf", "Lvneel", "Ilha Baltigo"]
+    },
+    {
+      "image": "https://media.giphy.com/media/uaJLuMokII24w/giphy.gif",
+      "title": "Qual o nome da terra natal de Enel?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": ["Burka", "Milku", "Birka", "Itu"]
+    },
+    {
+      "image": "https://media.giphy.com/media/GAbXcutXJNx5u/giphy.gif",
+      "title": "Durante Alabasta, quais as espadas do Zoro?",
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
-        "background: linear-gradient(#e66465, #9198e5);",
-        "background: gradient(#e66465, #9198e5);"
+        "Yubashiri, Sandai Kitetsu e Wado Ichimonji",
+        "Yubashiri, Shusui e Wado Ichimonji",
+        "Wado Ichimonji, Nidai Kitetsu e Yoru Kokuto",
+        "Shusui, Nidai Kitetsu e Yubashiri"
       ]
     }
   ],
-  "external": [""],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-marvel.omariosouto.vercel.app/"
+  ],
   "theme": {
     "colors": {
       "primary": "#0d47a1",
@@ -32,5 +70,10 @@
       "success": "#4CAF50"
     },
     "borderRadius": "4px"
+  },
+  "end": {
+    "images": {
+      "notbad": "https://media.giphy.com/media/1W40UWS9peSru/giphy.gif"
+    }
   }
 }
