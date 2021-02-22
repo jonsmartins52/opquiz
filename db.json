@@ -54,6 +54,30 @@
         "Wado Ichimonji, Nidai Kitetsu e Yoru Kokuto",
         "Shusui, Nidai Kitetsu e Yubashiri"
       ]
+    },
+    {
+      "image": "https://media.giphy.com/media/cJZGTqvVk7LspXHfT6/giphy.gif",
+      "title": "Segundo Sanji, qual Akuma no Mi era seu sonho comer?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+        "yere yere no me",
+        "supe supe no mi",
+        "sube sube no mi",
+        "suke suke no mi"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/QZafWHTjJmwTK/giphy.gif",
+      "title": "Em qual cápitulo a capa faz uma homenagem a Naruto pelo seu fim?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+        "973 - O Clã Kouzuki",
+        "766 - Smile",
+        "582 - Luffy e Ace",
+        "814 - Vamos ver o mestre Nekomamushi"
+      ]
     }
   ],
   "external": [
@@ -73,7 +97,8 @@
   },
   "end": {
     "images": {
-      "notbad": "https://media.giphy.com/media/1W40UWS9peSru/giphy.gif"
+      "notbad": "https://media.giphy.com/media/1W40UWS9peSru/giphy.gif",
+      "super": "https://media.giphy.com/media/4uMy0wqz6V1SM/giphy.gif"
     }
   }
 }
